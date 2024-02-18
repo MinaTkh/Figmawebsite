@@ -172,3 +172,61 @@ body{
     font-size: 16px;
     font-weight: bold;
 }
+
+.section-design{
+    width: 100%;
+    max-width: 486px;
+    margin-left: 143px;
+    margin-top: 205px;
+    display: inline-block;
+}
+
+.intro-title{
+    font-family: Poppins, sans-serif;
+    font-weight: medium;
+    font-style: auto;
+    font-size: 16px;
+    line-height: 26px;
+}
+
+.third-title{
+    width: 100%;
+    max-width: 385px;
+    margin-top: 3px;
+    font-family: Poppins, sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 36px;
+    line-height: auto;
+}
+
+.intro-text{
+    max-width: 486px;
+    width: 100%;
+    margin-top: 22px;
+    font-family: Poppins, sans-serif;
+    font-weight: medium;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 26px;
+}
+
+.subsection-title{
+    margin-top: 25px;
+    font-family: Poppins, sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 26px;
+}
+
+.subsection-text{
+    max-width: 486px;
+    width: 100%;
+    margin-top: 12px;
+    font-family: Poppins, sans-serif;
+    font-weight: medium;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 26px;
+}
